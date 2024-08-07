@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-1-general-probability" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>General Probability</title>
+
+  <introduction>
+    <p> The chapters in this book are based on the syllabus for the P exam provided by the Society of Actuaries (SOA) at
+      this website: <url href="https://www.soa.org/education/exam-req/edu-exam-p-detail/study/"> Syllabus.</url> 
+    
+    Note that the syllabus for the exam may change over time and the reader should check the syllabus for the P exam before they plan on taking the exam.</p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-section-name.ptx" />
+
+</chapter>
