@@ -15,8 +15,8 @@ var ptx_lunr_docs = [
   "url": "sec-concepts.html",
   "type": "Section",
   "number": "1.1",
-  "title": "General Concepts and Definitions",
-  "body": " General Concepts and Definitions  Text of section.  "
+  "title": "Some Basics",
+  "body": " Some Basics  In this section, we'll go over some of the basics such as \"Defin(ing) set functions, Venn diagrams, sample space, and events. Define probability as a set function on a collection of events and stat(ing) the basic axioms of probability.\" which is taken from the syllabus for the P exam.  "
 },
 {
   "id": "sec-2-1-intro",
