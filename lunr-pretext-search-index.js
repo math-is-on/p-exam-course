@@ -10,11 +10,29 @@ var ptx_lunr_docs = [
   "body": "  copyright  "
 },
 {
-  "id": "sec-section-name",
+  "id": "sec-concepts",
   "level": "1",
-  "url": "sec-section-name.html",
+  "url": "sec-concepts.html",
   "type": "Section",
   "number": "1.1",
+  "title": "General Concepts and Definitions",
+  "body": " General Concepts and Definitions  Text of section.  "
+},
+{
+  "id": "sec-2-1-intro",
+  "level": "1",
+  "url": "sec-2-1-intro.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "Section Title",
+  "body": " Section Title  Text of section.  "
+},
+{
+  "id": "sec-3-1-intro",
+  "level": "1",
+  "url": "sec-3-1-intro.html",
+  "type": "Section",
+  "number": "3.1",
   "title": "Section Title",
   "body": " Section Title  Text of section.  "
 },
