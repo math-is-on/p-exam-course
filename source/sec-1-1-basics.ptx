@@ -21,7 +21,7 @@
       <statement>
         <p>
           Suppose you can perform one task in <m>m</m> ways for each of those <m>m</m> outcomes, you can perform another
-          task in <m>n</m> ways.  Then the number of ways you can perform these tasks together is <me>mn</me> ways.
+          task in <m>n</m> ways.  Then the number of ways you can perform these tasks together is <me>m\cdot n</me> ways.
         </p>
       </statement>
     </theorem>
