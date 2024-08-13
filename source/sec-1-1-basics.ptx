@@ -2,10 +2,14 @@
 
 <section xml:id="sec-concepts" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Some Basics</title>
-
-  <p> In this section, we'll go over some of the basics such as "Defin(ing) set functions, Venn diagrams, sample space, and events. Define probability as a set
-    function on a collection of events and state the basic axioms of probability." which is taken from the syllabus
-  for the P exam. </p>
+  
+  <introduction>
+    <p>
+      In this section, we'll go over some of the basics such as "Defin(ing) set functions, Venn diagrams, sample space, and events. Define probability as a set 
+      function on a collection of events and state the basic axioms of probability." which is taken from the syllabus
+      for the P exam. 
+    </p>
+  </introduction>
 
   <subsection xml:id="subsec-Basic-Principles-of-Counting">
     <title>Basic Principles of Counting</title>
