@@ -9,9 +9,9 @@
 
   <subsection xml:id="subsec-Basic Principles of Counting">
     <title>Basic Principles of Counting</title>
-    Before we talk about probability, we need to first talk about the science of <em>counting</em>, also called <em>Combinatorial Analysis.</em>
+    <p>Before we talk about probability, we need to first talk about the science of <em>counting</em>, also called <em>Combinatorial Analysis.</em>
 
-    Let's start with the basic principle of counting:
+    Let's start with the basic principle of counting:</p>
 
     <theorem xml:id="thm-basic-counting">
       <statement>
