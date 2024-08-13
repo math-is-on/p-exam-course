@@ -35,11 +35,11 @@
         </statement>
       </task>
 
-      <solution>
+      <answer>
         <p>
           I can pick a shirt in 20 ways, and a pair of pants in 13 ways, so by the basic principle of counting, I can choose an outfit in <m>20 \cdot 13 = 260</m> ways.
         </p>
-      </solution>
+      </answer>
 
     </example>
   </subsection>
