@@ -27,11 +27,11 @@
     </theorem>
     
     <example>
-        <statement>
-          <p>
-            Suppose I own 20 different shirts and 13 different pairs of pants.  How many different outfits can I create from these options?
-          </p>
-        </statement>
+      <statement>
+        <p>
+          Suppose I own 20 different shirts and 13 different pairs of pants.  How many different outfits can I create from these options?
+        </p>
+      </statement>
 
       <answer>
         <p>
