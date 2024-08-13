@@ -7,7 +7,7 @@
     function on a collection of events and state the basic axioms of probability." which is taken from the syllabus
   for the P exam. </p>
 
-  <subsection xml:id="subsec-Basic Principles of Counting">
+  <subsection xml:id="subsec-Basic-Principles-of-Counting">
     <title>Basic Principles of Counting</title>
     <p>Before we talk about probability, we need to first talk about the science of <em>counting</em>, also called <em>Combinatorial Analysis.</em>
 
@@ -22,6 +22,22 @@
       </statement>
     </theorem>
     
+    <example>
+      <task>
+        <statement>
+          <p>
+            Suppose I own 20 different shirts and 13 different pairs of pants.  How many different outfits can I create from these options?
+          </p>
+        </statement>
+      </task>
+
+      <solution>
+        <p>
+          I can pick a shirt in 20 ways, and a pair of pants in 13 ways, so by the basic principle of counting, I can choose an outfit in <m>20 \cdot 13 = 260</m> ways.
+        </p>
+      </solution>
+
+    </example>
   </subsection>
 
 </section>
